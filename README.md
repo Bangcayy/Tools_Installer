@@ -13,6 +13,8 @@
 
 -cd Tools_Installer
 
+-pip install -r requirements.txt
+
 -python installer.py
 
 
